@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B3FD6,50:9B7BFF,100:C9B8FF&height=200&section=header&text=Madhukumar%20Rajanala&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Architect%20%E2%80%A2%20Angular%2020%20%E2%80%A2%20Ionic%20%26%20Capacitor&descSize=18&descAlignY=58&animation=fadeIn" alt="Madhukumar Rajanala, Frontend Architect" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B3FD6,50:9B7BFF,100:C9B8FF&height=200&section=header&text=Madhukumar%20Rajanala&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Architect%20%7C%20Angular%2020%20%7C%20Ionic%20and%20Capacitor&descSize=18&descAlignY=58&animation=fadeIn" alt="Madhukumar Rajanala, Frontend Architect" width="100%">
 </p>
 
 <p align="center">
@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madhu-Bhagi&label=Profile%20Views&color=9B7BFF&style=flat-square" alt="Profile views">
   <img src="https://img.shields.io/github/followers/Madhu-Bhagi?label=Followers&style=flat-square&color=5B3FD6&labelColor=1a1b26" alt="Followers">
   <img src="https://img.shields.io/badge/Experience-11%2B%20years-C9B8FF?style=flat-square&labelColor=1a1b26" alt="11+ years">
   <img src="https://img.shields.io/badge/Open%20to-client%20projects%20%26%20roles-6EE7A8?style=flat-square&labelColor=1a1b26" alt="Open to work">
@@ -113,9 +112,6 @@ philosophy: "Measure first. Ship small. Let every team deploy on its own."
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Madhu-Bhagi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9B7BFF&icon_color=C9B8FF&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165" alt="GitHub stats">
   <img src="https://streak-stats.demolab.com?user=Madhu-Bhagi&hide_border=true&background=0d1117&ring=9B7BFF&fire=C9B8FF&currStreakLabel=9B7BFF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="165" alt="Streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhu-Bhagi&bg_color=0d1117&color=C9B8FF&line=9B7BFF&point=ffffff&area=true&area_color=5B3FD6&hide_border=true&custom_title=Contribution%20activity" width="100%" alt="Activity graph">
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
