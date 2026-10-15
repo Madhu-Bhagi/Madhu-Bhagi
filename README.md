@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B3FD6,50:9B7BFF,100:C9B8FF&height=200&section=header&text=Madhukumar%20Rajanala&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Architect%20%7C%20Angular%2020%20%7C%20Ionic%20and%20Capacitor&descSize=18&descAlignY=58&animation=fadeIn" alt="Madhukumar Rajanala, Frontend Architect" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B3FD6,50:9B7BFF,100:C9B8FF&height=200&section=header&text=Madhukumar%20Rajanala&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Architect%20%7C%20Angular%2020%20%7C%20Ionic%20and%20Capacitor&descSize=18&descAlignY=58" alt="Madhukumar Rajanala, Frontend Architect" width="100%">
 </p>
 
 <p align="center">
@@ -110,8 +110,8 @@ philosophy: "Measure first. Ship small. Let every team deploy on its own."
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhu-Bhagi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9B7BFF&icon_color=C9B8FF&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165" alt="GitHub stats">
-  <img src="https://streak-stats.demolab.com?user=Madhu-Bhagi&hide_border=true&background=0d1117&ring=9B7BFF&fire=C9B8FF&currStreakLabel=9B7BFF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="165" alt="Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhu-Bhagi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9B7BFF&icon_color=C9B8FF&text_color=c9d1d9" height="165" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhu-Bhagi&layout=compact&hide_border=true&bg_color=0d1117&title_color=9B7BFF&text_color=c9d1d9&langs_count=6" height="165" alt="Top languages">
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
