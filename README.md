@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://madhukumar.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=C9B8FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Madhu+%F0%9F%91%8B;I+split+big+frontends+so+teams+ship+on+their+own;Angular+20+%E2%80%A2+Microfrontends+%E2%80%A2+SSR;Offline-first+Ionic+%26+Capacitor+apps;Now+going+deep+on+React%2C+Node+%26+MEAN" alt="Typing intro">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=C9B8FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Madhu+%F0%9F%91%8B;I+split+big+frontends+so+teams+ship+on+their+own;Angular+20+%E2%80%A2+Microfrontends+%E2%80%A2+SSR;Offline-first+Ionic+%26+Capacitor+apps;Also+building+with+React+%26+Node.js" alt="Typing intro">
   </a>
 </p>
 
@@ -32,7 +32,7 @@ expertise:
   - SSR & incremental hydration
   - Offline-first Ionic & Capacitor (Android + iOS)
 domains:    [fintech, industrial safety, cold chain, gov-tech, ports]
-learning:   [React, Node.js, Express, MongoDB]  # → MEAN full-stack
+also:       [React, Node.js, Express, MongoDB]
 ai_tools:   [ChatGPT, GitHub Copilot, Claude Code]
 philosophy: "Measure first. Ship small. Let every team deploy on its own."
 ```
@@ -40,7 +40,7 @@ philosophy: "Measure first. Ship small. Let every team deploy on its own."
 **🎯 Current focus**
 - 🏗️ Designing microfrontend platforms where each business domain ships on its own schedule
 - ⚡ Performance work: SSR, hydration, request dedupe and caching
-- 🌱 Going deep on **React and Node.js** on the way to the full **MEAN stack**
+- ⚛️ Building with **React and Node.js** alongside Angular
 
 **⚡ Quick facts**
 - 📱 Started in 2014 on native Android & iOS apps for port operations
@@ -68,6 +68,7 @@ philosophy: "Measure first. Ship small. Let every team deploy on its own."
 - **Accela mobile (gov-tech)**: Ionic 5 + Angular with ArcGIS JavaScript maps
 - **Ports & maritime**: offline pilotage app, a portal used by 30 terminals, truck booking and yard tracking apps
 - **AI delivery pipeline (side project)**: 7 Claude Code agents from ticket to reviewed code, with a human check before every commit
+- **React builds**: full-stack e-commerce store (React + TypeScript + Node/Express), Chef Claude (AI recipes with the Claude API), a chatbot, a meme generator and two accessible React games
 
 👉 Sample screens and live demos: **[madhukumar.vercel.app](https://madhukumar.vercel.app)**
 
@@ -98,12 +99,22 @@ philosophy: "Measure first. Ship small. Let every team deploy on its own."
   <img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode,postman,figma,vercel&theme=dark" alt="Tools">
 </p>
 
-**🌱 Learning now**
+**⚛️ React builds**
 <p>
-  <img src="https://img.shields.io/badge/React-in%20depth-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1b26" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-in%20depth-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1b26" alt="Node.js">
-  <img src="https://img.shields.io/badge/Goal-MEAN%20full--stack-9B7BFF?style=for-the-badge&labelColor=1a1b26" alt="MEAN">
+  <img src="https://img.shields.io/badge/React%2019-1a1b26?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19">
+  <img src="https://img.shields.io/badge/Vite-1a1b26?style=for-the-badge&logo=vite&logoColor=FFC517" alt="Vite">
+  <img src="https://img.shields.io/badge/Node%20%2B%20Express-1a1b26?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node and Express">
+  <img src="https://img.shields.io/badge/Vitest-1a1b26?style=for-the-badge&logo=vitest&logoColor=6E9F18" alt="Vitest">
 </p>
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| 🛒 **E-commerce Store** | Product grid, cart, checkout with delivery options, order history, own REST API | React 19 · TypeScript · React Router 7 · Node/Express · Sequelize · Vitest |
+| 🧑‍🍳 **Chef Claude** | Turns the ingredients you have into a recipe using an LLM | React 19 · Claude API · react-markdown |
+| 🤖 **React Chatbot** | Chat UI with user/bot bubbles and auto-scroll | React 19 · Vite |
+| 😂 **Meme Generator** | Random Imgflip templates with live captions | React · Vite · Imgflip API |
+| 🔤 **Assembly: Endgame** | Hangman-style word game, screen-reader friendly | React · clsx · aria-live |
+| 🎲 **Tenzies** | Dice game with held dice and focus management | React 18 · nanoid · aria-pressed |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
 
