@@ -60,15 +60,46 @@ philosophy: "Measure first. Ship small. Let every team deploy on its own."
 | **5+** independently deployable microfrontends | Nx + Module Federation under one shell |
 | **60%** faster sign-in | Biometric login on an IoT app used in 10+ countries |
 
-## 🚀 Selected work
+## 🚀 Projects
 
-- **Cross-border payments platform (fintech)**: Nx + Module Federation microfrontends for Wires, Checks, BillPay and Top-ups; Angular 20 SSR, SignalStore, OIDC, SignalR, LaunchDarkly
-- **Safety & field-operations app (industrial)**: offline-first Ionic/Capacitor app with SQLite ↔ Firestore sync and gamified modules
-- **SensiWatch mobile (IoT / cold chain)**: live shipment monitoring, trip maps, sensor graphs, push alerts, biometric sign-in
-- **Accela mobile (gov-tech)**: Ionic 5 + Angular with ArcGIS JavaScript maps
-- **Ports & maritime**: offline pilotage app, a portal used by 30 terminals, truck booking and yard tracking apps
-- **AI delivery pipeline (side project)**: 7 Claude Code agents from ticket to reviewed code, with a human check before every commit
-- **React builds**: full-stack e-commerce store (React + TypeScript + Node/Express), Chef Claude (AI recipes with the Claude API), a chatbot, a meme generator and two accessible React games
+### 🅰️ Angular & mobile
+
+| Project | Domain | What I built | Result | Stack |
+|:--|:--|:--|:--|:--|
+| 💸 **Cross-border Payments Platform** | Fintech · Navitas | Microfrontend platform for Wires, Checks, BillPay and Top-ups with a shared auth, state and API layer | **40–60%** fewer redundant API calls · **30–40%** faster first load | Angular 20 · Nx · Module Federation · SSR · SignalStore · OIDC · SignalR · LaunchDarkly |
+| 🦺 **Industrial Safety & Field Ops** | Industrial · Android + iOS | Safety tours, QR asset scanning, corrective actions and gamified leagues for plant teams | Offline-first in low-signal plants | Ionic · Capacitor · SQLite ↔ Firestore sync · Signals |
+| 🚚 **SensiWatch Mobile** | IoT / cold chain · Carrier | Built from scratch: live trip maps, sensor graphs, alarm acknowledgement, push alerts | **60%** faster sign-in · **~35%** faster incident response · 10+ countries | Ionic · Capacitor · Biometrics · OIDC · SignalR |
+| 🗺️ **Accela Mobile** | Gov-tech · MARS Telecom | Mobile app built end to end; native map replaced with a reusable ArcGIS map service | Built from scratch | Ionic 5 · Angular · ArcGIS JS |
+| ⚓ **Marine Ops & Pilotage** | Maritime · TCS | Job assignments and marine-ops info for port pilots | Works at sea with no signal | Ionic 5 · Angular · PouchDB |
+| 🏗️ **RDT Web Portal** | Ports · TCS | Rebuilt a standalone .NET business portal as an Angular web app | Used by **30** terminals worldwide | Angular 8 · Angular Material · i18n |
+| 🚛 **Mobile Gate** | Ports · Foray Software | Entry passes for trucks picking up or dropping containers | Delivered with UAT fixes before launch | Cordova · Material Design Lite |
+| 📅 **VBS · Vehicle Booking** | Ports · TCS product | Hauliers create, move and cancel port truck appointments | Live on Google Play and the App Store | Android · iOS |
+| 📍 **ITV Yard Tracking** | Adani Ports · CMC | Real-time truck tracking and yard navigation for drivers | Real-time container status | Android · iOS |
+
+### 🧪 Side projects
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| 🤖 **AI Delivery Pipeline** | 7 Claude Code agents take a ticket from plan to code, test, review and fix, with a human check before every commit. Used on a real fintech codebase | Claude Code · Azure Boards · TypeScript |
+| 🎯 **Job-Match Dashboard** | Scores live job listings against a skill profile and keeps an approval queue with drafted cover letters | React · Claude API · Web search |
+| 🌌 **This portfolio** | Plain HTML, CSS and JS with working demos of production patterns | HTML · CSS · JavaScript |
+
+### ⚛️ React builds
+<p>
+  <img src="https://img.shields.io/badge/React%2019-1a1b26?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19">
+  <img src="https://img.shields.io/badge/Vite-1a1b26?style=for-the-badge&logo=vite&logoColor=FFC517" alt="Vite">
+  <img src="https://img.shields.io/badge/Node%20%2B%20Express-1a1b26?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node and Express">
+  <img src="https://img.shields.io/badge/Vitest-1a1b26?style=for-the-badge&logo=vitest&logoColor=6E9F18" alt="Vitest">
+</p>
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| 🛒 **E-commerce Store** | Product grid, cart, checkout with delivery options, order history, own REST API | React 19 · TypeScript · React Router 7 · Node/Express · Sequelize · Vitest |
+| 🧑‍🍳 **Chef Claude** | Turns the ingredients you have into a recipe using an LLM | React 19 · Claude API · react-markdown |
+| 🤖 **React Chatbot** | Chat UI with user/bot bubbles and auto-scroll | React 19 · Vite |
+| 😂 **Meme Generator** | Random Imgflip templates with live captions | React · Vite · Imgflip API |
+| 🔤 **Assembly: Endgame** | Hangman-style word game, screen-reader friendly | React · clsx · aria-live |
+| 🎲 **Tenzies** | Dice game with held dice and focus management | React 18 · nanoid · aria-pressed |
 
 👉 Sample screens and live demos: **[madhukumar.vercel.app](https://madhukumar.vercel.app)**
 
@@ -78,7 +109,7 @@ philosophy: "Measure first. Ship small. Let every team deploy on its own."
 
 **Frontend & mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,materialui&theme=dark" alt="Frontend">
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,sass,bootstrap,materialui&theme=dark" alt="Frontend">
 </p>
 <p>
   <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS">
@@ -98,23 +129,6 @@ philosophy: "Measure first. Ship small. Let every team deploy on its own."
 <p>
   <img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode,postman,figma,vercel&theme=dark" alt="Tools">
 </p>
-
-**⚛️ React builds**
-<p>
-  <img src="https://img.shields.io/badge/React%2019-1a1b26?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19">
-  <img src="https://img.shields.io/badge/Vite-1a1b26?style=for-the-badge&logo=vite&logoColor=FFC517" alt="Vite">
-  <img src="https://img.shields.io/badge/Node%20%2B%20Express-1a1b26?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node and Express">
-  <img src="https://img.shields.io/badge/Vitest-1a1b26?style=for-the-badge&logo=vitest&logoColor=6E9F18" alt="Vitest">
-</p>
-
-| Project | What it does | Stack |
-|:--|:--|:--|
-| 🛒 **E-commerce Store** | Product grid, cart, checkout with delivery options, order history, own REST API | React 19 · TypeScript · React Router 7 · Node/Express · Sequelize · Vitest |
-| 🧑‍🍳 **Chef Claude** | Turns the ingredients you have into a recipe using an LLM | React 19 · Claude API · react-markdown |
-| 🤖 **React Chatbot** | Chat UI with user/bot bubbles and auto-scroll | React 19 · Vite |
-| 😂 **Meme Generator** | Random Imgflip templates with live captions | React · Vite · Imgflip API |
-| 🔤 **Assembly: Endgame** | Hangman-style word game, screen-reader friendly | React · clsx · aria-live |
-| 🎲 **Tenzies** | Dice game with held dice and focus management | React 18 · nanoid · aria-pressed |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
 
